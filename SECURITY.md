@@ -8,9 +8,9 @@ Security fixes are handled for the latest published version and the current `mai
 
 ## Reporting A Vulnerability
 
-Open a GitHub issue using the **Security report** template.
+Report vulnerabilities privately through GitHub: [Report a vulnerability](https://github.com/mirza-rizvi/full-year-in-new-tab/security/advisories/new). Only the maintainer can see the report.
 
-Do not post exploit details, secrets, personal data, private URLs, tokens, or sensitive payloads publicly. Keep the issue high-level and include only enough information for maintainers to understand the affected surface.
+Please do not open a public issue for security problems.
 
 Please include:
 
@@ -18,10 +18,8 @@ Please include:
 - Chrome version
 - Operating system
 - Affected surface, such as new-tab rendering, settings, local storage, build/release, or manifest
-- High-level reproduction summary
+- Reproduction steps
 - Expected impact
-
-If sensitive details are required, state that in the issue so maintainers can arrange a private follow-up path.
 
 ## Scope
 
